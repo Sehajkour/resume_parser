@@ -1,0 +1,37 @@
+{
+    "personal_info": {
+        "email": "sehajkourraina2004@gmail.com"
+    },
+    "education": [],
+    "work_experience": [],
+    "skills": [
+        "PROJECTS",
+        "\u2022 A Captcha Verifier July\u201924",
+        "Domain: Python",
+        "Collects user details and verifies them against dynamically generated CAPTCHA codes.",
+        "Utilizes the wxPython library for the GUI, PIL for image handling, and the captcha library for generating and verifying CAPTCHAs.",
+        "Potential to include more advanced and adaptive CAPTCHA types, AI-driven improvements for enhanced security and usability, and",
+        "better accessibility features to cater to users with disabilities.",
+        "\u2022 A Real-Time Chat Application May\u201924",
+        "Domain: Node.js, MongoDB",
+        "Developed a comprehensive backend using the MERN stack, emphasizing the use of Node.js and MongoDB",
+        "Designed to manage real-time data exchange, database schema design, user authentication, and server-side logic, including",
+        "integration with third-party APIs for language processing.",
+        "\u2022 A Fitness Website Aug\u201923",
+        "Domain: Python, MySQL",
+        "Designed to serve as a pizza order management system allowing both customers and merchants to place and track orders, view order",
+        "statuses, and manage order data",
+        "Potential to include integrating additional payment gateways, improving data security, and adding features for order analytics .",
+        "CERTIFICATES",
+        "\u2022 Java Programming: Arrays, Lists, and Structured Data | Coursera May 2023",
+        "\u2022 Algorithms Specialization from Standford University |Udemy May 2023",
+        "\u2022 The bits and bytes of Computer Networking |Coursera Nov 2022",
+        "EDUCATION",
+        "Lovely Professional University Punjab, India",
+        "Bachelor of Technology - Computer Science and Engineering; CGPA: 7.63 Since August 2021",
+        "Presentation Convent School Gandhi Nagar, Jammu",
+        "Intermediate; Percentage: 88% April 2018 - March 2020",
+        "Presentation Convent School Gandhi Nagar, Jammu",
+        "Matriculation; Percentage: 96.04% April 2018 - May 2019"
+    ]
+}
